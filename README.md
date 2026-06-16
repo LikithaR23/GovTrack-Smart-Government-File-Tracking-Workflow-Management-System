@@ -1,2 +1,2 @@
 # GovTrack-Smart-Government-File-Tracking-Workflow-Management-System
-A full-stack web application for digital file tracking and workflow automation. Features include file routing, approval/rejection workflows, audit history tracking, dashboard analytics, PDF report generation, file uploads, and priority-based monitoring.  Tech Stack: Java, Spring Boot, MySQL, Hibernate/JPA, REST APIs, HTML, CSS, JavaScript.
+A full-stack web application for digital file tracking and workflow automation. Features include file routing, approval/rejection workflows, audit history tracking, dashboard analytics, PDF report generation, file uploads, and priority-based monitoring. 
